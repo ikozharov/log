@@ -1,0 +1,20 @@
+{
+  "name": "log",
+  "main": "log.js",
+  "version": "0.1.0",
+  "authors": [
+    "Igor Kozharov <i.kozharov@gmail.com>"
+  ],
+  "description": "logging module",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "log",
+    "logging"
+  ],
+  "license": "MIT",
+  "private": true
+}
