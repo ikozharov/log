@@ -1,7 +1,7 @@
-AMD/CommonJS/Global logging module
+Small module for logging in browser [![Stories in Ready](https://badge.waffle.io/ikozharov/log.svg?label=ready&title=Ready)](http://waffle.io/ikozharov/log)
 ===
 
-Small module for logging in browser.
+AMD/CommonJS/Global module.
 
  
 [See in action](http://ikozharov.github.io/log)
